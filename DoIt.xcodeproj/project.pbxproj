@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		015A6B101D566A130095576B /* CompleteTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015A6B0F1D566A130095576B /* CompleteTaskViewController.swift */; };
-		015A6B121D566E960095576B /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015A6B111D566E960095576B /* Task.swift */; };
 		017EF1AC1D56483B00F0C96C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 017EF1AB1D56483B00F0C96C /* AppDelegate.swift */; };
 		017EF1AE1D56483B00F0C96C /* TasksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 017EF1AD1D56483B00F0C96C /* TasksViewController.swift */; };
 		017EF1B11D56483B00F0C96C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 017EF1AF1D56483B00F0C96C /* Main.storyboard */; };
@@ -20,7 +19,6 @@
 
 /* Begin PBXFileReference section */
 		015A6B0F1D566A130095576B /* CompleteTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteTaskViewController.swift; sourceTree = "<group>"; };
-		015A6B111D566E960095576B /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		017EF1A81D56483A00F0C96C /* DoIt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoIt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		017EF1AB1D56483B00F0C96C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		017EF1AD1D56483B00F0C96C /* TasksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksViewController.swift; sourceTree = "<group>"; };
@@ -71,7 +69,6 @@
 				017EF1B71D56483B00F0C96C /* LaunchScreen.storyboard */,
 				017EF1BA1D56483B00F0C96C /* Info.plist */,
 				017EF1B21D56483B00F0C96C /* DoIt.xcdatamodeld */,
-				015A6B111D566E960095576B /* Task.swift */,
 			);
 			path = DoIt;
 			sourceTree = "<group>";
@@ -153,7 +150,6 @@
 				015A6B101D566A130095576B /* CompleteTaskViewController.swift in Sources */,
 				017EF1AE1D56483B00F0C96C /* TasksViewController.swift in Sources */,
 				017EF1AC1D56483B00F0C96C /* AppDelegate.swift in Sources */,
-				015A6B121D566E960095576B /* Task.swift in Sources */,
 				017EF1C31D565DAF00F0C96C /* CreateTaskViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
